@@ -1,2 +1,2 @@
-# openresty_study
-openresty study notes
+# OpenResty练手项目
+

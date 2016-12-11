@@ -1,2 +1,0 @@
-
-ngx.say("hello world!");
